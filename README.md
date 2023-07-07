@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @mmowindblade
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello, I'm Minh Anh!
 
-<!---
-mmowindblade/mmowindblade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📱 Mobile Developer | iOS & Android | React Native
+
+🚀 Passionate about creating exceptional mobile experiences that delight users.
+
+📚 Proficient in native app development using Swift and Java/Kotlin. Experience with cross-platform frameworks like React Native.
+
+💡 Strong understanding of responsive design principles and user-centered development.
+
+💻 Always exploring the latest technologies and tools to enhance mobile app development.
+
+🤝 Collaboration-driven with effective communication skills, working well in team environments.
+
+🌟 Let's build something amazing together! Connect with me to discuss mobile app development projects and opportunities.
+
+📫 Reach me at minhanh@gmail.com or check out my portfolio at minhanh.com.
+
+Looking forward to connecting with fellow developers and creating innovative mobile solutions! 🚀"
+
+Feel free to personalize the bio by adding your own name, email address, and portfolio website.
